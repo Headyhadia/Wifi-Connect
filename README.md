@@ -6,7 +6,7 @@
 
 ## About
 
-`scanner.py` is a small Python script that:
+`wifi-connect.py` is a small Python script that:
 
 1. Scans for nearby Wi-Fi networks.
 2. Loads a list of candidate passwords from a text file.
